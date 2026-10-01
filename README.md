@@ -1,2 +1,19 @@
-# frontend-practice
-A collection of small frontend practice projects focused on HTML, CSS, layouts, positioning, and interactive UI elements.
+# Profile Card
+
+A simple profile card created as a CSS practice project.
+
+## Concepts Practiced
+
+- CSS positioning
+- Relative positioning
+- Absolute positioning
+- Fixed positioning
+- z-index
+- Basic styling
+- Borders and border-radius
+- Buttons and badges
+
+## Technologies
+
+- HTML
+- CSS
